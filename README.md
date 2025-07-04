@@ -31,6 +31,7 @@ I will admit, the Azov Antarctic is probably one of my favorite trucks in the ga
 * Added Mini Crane, Maintenance Module, and Fuel Tank
   * NOTE: Mini Crane is bugged. The truck has to be straight in order for the crane to work properly, if the truck is articulated at all it will only work on one side of the vehicle
   * Mini crane will move to the back of the cargo beds if they are installed. While this looks fine with the sideboard bed, the flatbed has the mini crane floating just behind it. Nothing I can do about that, both beds share the same addon.
+  * By the same token, the crane sits so high that the anchors will not reach the ground
 
 -----
 
