@@ -87,4 +87,4 @@ I will admit, the Azov Antarctic is probably one of my favorite trucks in the ga
 
 -----
 
-I hope you enjoy these changes! If you have any ideas, suggestions, or bug reports, please add them to the issues page!
+I hope you enjoy these changes! If you have any ideas, suggestions, or bug reports, please feel free to bring them up! I can't promise I"ll have the time to add things but I'll take everything into consideration!
