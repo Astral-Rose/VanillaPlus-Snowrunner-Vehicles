@@ -23,6 +23,8 @@ Are there changes in here you don't like? Maybe you want the Ank tires to not ig
 -----
 
 **Azov Antarctic** 
+
+I will admit, the Azov Antarctic is probably one of my favorite trucks in the game, and I have a bit of a soft spot for it, so it's gotten the most love from me.
 * Lowered the center of gravity
 * Added an engine that doubles the horsepower of the stock top engine
   * This is the only engine I have added and will add. It's usable by all vehicles that share engines with the Azov Antarctic, so not using it on other vehicles is pretty much a self imposed rule. It's also only 200 credits, in case you lose the engine it's not a huge money loss
