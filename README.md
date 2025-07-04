@@ -31,7 +31,7 @@
 -----
 
 **Cat 745C**
-* Added Lift King Crane, sideboard and flatbed cargo holders, the unused water tank, and a trailer hitch
+* Added Lift King Crane, Long Log carrier, sideboard and flatbed cargo holders, the unused water tank, and a trailer hitch
   * NOTE: I noticed the Lift King on the Cat is weaker than other truck's Lift Kings. Not enough to make it useless, but enough that I couldn't lift the TH357 with it onto a trailer.
 * Changed the Medium logs in the log carrier to be shorter so it can be hitched with a medium logs carrier for two loads at once
 
