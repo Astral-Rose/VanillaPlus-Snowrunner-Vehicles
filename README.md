@@ -12,6 +12,7 @@
   * (The only engine I have added. It's usable by all vehicles that share engines with the Azov Antarctic, so not using it on other vehicles is pretty much a self imposed rule. It's also only 200 credits, in case you lose the engine it's not a huge money loss)
 * Added Mini Crane, Maintenance Module, and Fuel Tank
   * NOTE: Mini Crane is bugged. The truck has to be straight in order for the crane to work properly, if the truck is articulated at all it will only work on one side of the vehicle
+  * Mini crane will move to the back of the cargo beds if they are installed. While this looks fine with the sideboard bed, the flatbed has the mini crane floating just behind it. Nothing I can do about that, both beds share the same addon.
 
 -----
 
@@ -26,7 +27,7 @@
 -----
 
 **Khan 317**
-* Changed from Rear Wheel Drive to Front Wheel Drive, just like the real vehicle
+* Changed from Rear Wheel Drive to Front Wheel Drive, just like the real vehicle. Does this make the vehicle worse? I think so, but it's unique at least.
 
 -----
 
@@ -46,6 +47,7 @@
 
 **Dan 96320**
 * Added a mini crane and changed the sideboard bed to the Zikz variant
+* Removed the fuel visual from the battery box, as apparently someone confused the battery box as a secondary fuel tank. Still working on trying to remove the hitbox from this "fuel tank".
 
 -----
 
@@ -55,7 +57,7 @@
 -----
 
 **Derry Special**
-* Increase fire tank capacity so it can hold double
+* Increase fire tank capacity so it can hold double, to make up for not being able to tow a water trailer with it equipped.
 
 -----
 
