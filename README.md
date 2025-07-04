@@ -1,4 +1,19 @@
-# All changes that have been made:
+# Vanilla+ Vehicle Changes
+
+**Hello there!**
+This is a collection of all the changes I have been making to Snowrunner, from trucks to changing a couple tires and add-ons, it's all here.
+
+I am trying to create a very "Vanilla+" kind of change to the game. I'm not trying to add in engines or add-ons or what not that do not exist in the base game, for the sake of keeping things simple enough to add or remove. Like I'm not going to add engines to the XML files in case an update removes the file and now the truck is trying to call an engine that does not exist (with one exception, see Azov Antactic below).
+
+Basically, I'm doing things like adding mini cranes, maintenance add-ons, sideboard beds, or other add-ons to vehicles that do not have them. Or making slight tweaks to add-ons to give them a little more value (like more water capacity or some extra repair parts, things that won't break when going back to vanilla)
+
+## How to install
+
+All you need is Winrar. That's it. Wherever you have the Snowrunner game files install, open the preload/paks/client/initial.pak in Winrar, then drag the (unzipped) [Media] folder from your download location to the [Media] folder in Winrar, and accept the popup. It will replace all the files in the initial.pak with all the ones you downloaded.
+
+Are there changes in here you don't like? Maybe you want the Ank tires to not ignore ice for example. Or maybe you just hate the Antarctic so much you don't want it to change at all. Just delete the file from the downloaded files before doing the steps above. Or dive into the initial.pak files in Winrar and drag and drop only the files you want to replace. The file structure within the initial.pak is the same as the one you downloaded.
+
+## All changes that have been made:
 
 **Twinsteer**
 * Lowered center of gravity 
@@ -9,7 +24,7 @@
 **Azov Antarctic** 
 * Lowered the center of gravity
 * Added an engine that doubles the horsepower of the stock top engine
-  * (The only engine I have added. It's usable by all vehicles that share engines with the Azov Antarctic, so not using it on other vehicles is pretty much a self imposed rule. It's also only 200 credits, in case you lose the engine it's not a huge money loss)
+  * This is the only engine I have added and will add. It's usable by all vehicles that share engines with the Azov Antarctic, so not using it on other vehicles is pretty much a self imposed rule. It's also only 200 credits, in case you lose the engine it's not a huge money loss
 * Added Mini Crane, Maintenance Module, and Fuel Tank
   * NOTE: Mini Crane is bugged. The truck has to be straight in order for the crane to work properly, if the truck is articulated at all it will only work on one side of the vehicle
   * Mini crane will move to the back of the cargo beds if they are installed. While this looks fine with the sideboard bed, the flatbed has the mini crane floating just behind it. Nothing I can do about that, both beds share the same addon.
@@ -22,7 +37,8 @@
 -----
 
 **Tuz 166**
-* Changed the rear spare tire to also include some spare parts and 20 liters of fuel. Since the rear tire actually removes the hitch, it's a way to make it more worth taking, like you throw in a box of spare parts and a jerry can of fuel into the back seat.
+* Changed the rear spare tire add-on to also include some spare parts and 20 liters of fuel. Since the rear tire actually removes the hitch, it's a way to make it more worth taking, like you throw in a box of spare parts and a jerry can of fuel into the back seat.
+  * This change is also because I don't like the look of the roof rack on the Tuz. I will admit the creation of this one was cosmetic bias on my part, as much sense as it actually makes to have.
 
 -----
 
@@ -65,3 +81,6 @@
 * Changed the model of the MSH III to the MSH I, and made it ignore ice. Makes those super big trucks a little more viable on iced over roads
 * Changed the Ank MK38 tires to ignore ice. Incredibly short sighted that you have to give up the Ank's superb tires just to put chains on them in vanilla
 
+-----
+
+I hope you enjoy these changes! If you have any ideas, suggestions, or bug reports, please add them to the issues page!
