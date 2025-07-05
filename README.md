@@ -32,22 +32,26 @@ I will admit, the Azov Antarctic is probably one of my favorite trucks in the ga
   * NOTE: Mini Crane is bugged. The truck has to be straight in order for the crane to work properly, if the truck is articulated at all it will only work on one side of the vehicle
   * Mini crane will move to the back of the cargo beds if they are installed. While this looks fine with the sideboard bed, the flatbed has the mini crane floating just behind it. Nothing I can do about that, both beds share the same addon.
   * By the same token, the crane sits so high that the anchors will not reach the ground
+![Azov](https://github.com/user-attachments/assets/9692546f-306c-4681-8b4b-487cdc0bcff7)
 
 -----
 
 **Kolobs**
 * Added Long Log capacity to make them like Russian P16s
+![20250704213926_1](https://github.com/user-attachments/assets/cc643a98-28c9-4d08-aac4-61eefa49ea47)
 
 -----
 
 **Tuz 166**
 * Changed the rear spare tire add-on to also include some spare parts and 20 liters of fuel. Since the rear tire actually removes the hitch, it's a way to make it more worth taking, like you throw in a box of spare parts and a jerry can of fuel into the back seat.
   * This change is also because I don't like the look of the roof rack on the Tuz. I will admit the creation of this one was cosmetic bias on my part, as much sense as it actually makes to have.
+![20250704213615_1](https://github.com/user-attachments/assets/5dc6fc3c-49ba-4e6e-a5fe-f751bc7ae0a2)
 
 -----
 
 **Khan 317**
 * Changed from Rear Wheel Drive to Front Wheel Drive, just like the real vehicle. Does this make the vehicle worse? I think so, but it's unique at least.
+![20250704214233_1](https://github.com/user-attachments/assets/863bada9-fef6-4dcf-9411-d755f7205f17)
 
 -----
 
@@ -55,6 +59,7 @@ I will admit, the Azov Antarctic is probably one of my favorite trucks in the ga
 * Added Lift King Crane, Long Log carrier, sideboard and flatbed cargo holders, the unused water tank, and a trailer hitch
   * NOTE: I noticed the Lift King on the Cat is weaker than other truck's Lift Kings. Not enough to make it useless, but enough that I couldn't lift the TH357 with it onto a trailer.
 * Changed the Medium logs in the log carrier to be shorter so it can be hitched with a medium logs carrier for two loads at once
+![Cat](https://github.com/user-attachments/assets/0aa5aa3f-cba2-4fd6-abe5-e863ff05386d)
 
 -----
 
@@ -62,12 +67,14 @@ I will admit, the Azov Antarctic is probably one of my favorite trucks in the ga
 * Increased turning response time
 * Made it All Wheel Drive (since the real one can crush rocks in it's way with it's weight and the rocks in Snowrunner are stronger than unobtainium, this is the next best thing)
 * Gave it a high saddle
+![20250704213412_1](https://github.com/user-attachments/assets/bdeb60fd-4b1f-45ea-a8d5-78645612086d)
 
 -----
 
 **Dan 96320**
 * Added a mini crane and changed the sideboard bed to the Zikz variant
 * Removed the fuel visual from the battery box, as apparently someone confused the battery box as a secondary fuel tank. Still working on trying to remove the hitbox from this "fuel tank".
+![20250704214133_1](https://github.com/user-attachments/assets/1a5ad9ef-6d5a-4bc1-9fbd-8b479da06565)
 
 -----
 
