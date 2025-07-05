@@ -492,7 +492,6 @@
 			<Socket Names="BunkLog" Offset="(-6.038; 1.891; 0)" ParentFrame="BoneBack_cdt" />
 			<Socket Names="LogLift" Offset="(-1.840; 1.885; 0)" ParentFrame="BoneBack_cdt" />
 			<Socket Names="FrameAddonTank" Offset="(-3.55; 1.885; 0)" ParentFrame="BoneBack_cdt"  />
-			<Socket Names="FrameAddonLogsShortAramatsu" Offset="(-1.0; 1.0; 0)" NamesBlock="MinicraneRU" ParentFrame="BoneBack_cdt" />
 			<Socket Names="FrameAddonMaintainer" Offset="(-3.15; 0.785; 0)" NamesBlock="MinicraneRU, Trailer, LogTrailer" ParentFrame="BoneBack_cdt" />
 			<Socket Names="FrameAddon" Offset="(-2.47; 1.865; 0)" ParentFrame="BoneBack_cdt" />
 				<AddonsShift Offset="(-0.80; 0; 0)" Types="MinicraneRU" />
