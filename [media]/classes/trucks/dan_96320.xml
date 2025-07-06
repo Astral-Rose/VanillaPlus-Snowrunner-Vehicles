@@ -358,8 +358,10 @@
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0; 0; -0.03)" />
 				<ExtraParent Frame="BoneChassis_cdt" Offset="(0; 0; 0.03)" />
 			</Socket>
+			<!-- The first Zikz Frame Addon is for when using the minicrane at the front of the truck, the second is for when the minicrane is at the rear -->
 			<Socket Names="FrameAddonFlatbedDan96320" NamesBlock="MinicraneRU" Offset="(-1.1; 1.42; 0)" ParentFrame="BoneChassis_cdt" />
 			<Socket Names="ZikzFrameAddon" Offset="(.65; -.175; 0)" ParentFrame="BoneChassis_cdt" />
+			<!-- <Socket Names="ZikzFrameAddon" Offset="(2.6; -0.195; 0)" ParentFrame="BoneChassis\_cdt" /> -->
 			<!-- <Socket Names="FrameAddon" Offset="(-1.1; 1.185; 0)" ParentFrame="BoneChassis_cdt" /> -->
 			<Socket Names="FrameAddonTankDan96320" NamesBlock="MinicraneRU" Offset="(-2; 1.254; 0)" ParentFrame="BoneChassis_cdt" />
 			<Socket Names="FrameAddonKungDan96320" NamesBlock="MinicraneRU" Offset="(-1.2; 1.185; 0)" ParentFrame="BoneChassis_cdt" />
@@ -378,6 +380,8 @@
 				<ExtraParent Frame="BoneBack_cdt" Offset="(0; 0; -0.01)" />
 				<ExtraParent Frame="BoneBack_cdt" Offset="(0; 0; +0.01)" />
 				<AddonsShift Offset="(.7; .2; 0)" Types="ZikzFrameAddon" />
+				<!-- <AddonsShift Offset="(-3.52; 0; 0)" Types="ZikzFrameAddon" /> -->
+				<!-- The second one is for the mini crane on the rear of the truck when using the bed -->
 			</Socket>
 		</AddonSockets>
 		<AddonSockets>
